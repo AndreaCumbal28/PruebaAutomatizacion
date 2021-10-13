@@ -1,0 +1,3 @@
+module AutomatizacionChoucair {
+	requires okio;
+}
